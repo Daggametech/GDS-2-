@@ -19,7 +19,7 @@ Properties:
 
 var playerData ={
 	info:{
-		src:`images/snale.png`
+		src:`images/FullSpriteSheet.png`
 	},
 	states:{
 		//The idle animation 
@@ -30,8 +30,10 @@ var playerData ={
 			frames:
 			[
 				{width:128, height:128, startX:0, startY:0},
-				{width:128, height:128, startX:128, startY:0}
-				
+				{width:128, height:128, startX:128, startY:0},
+				{width:128, height:128, startX:256, startY:0},
+				{width:128, height:128, startX:384, startY:0},
+				{width:128, height:128, startX:512, startY:0},
 			]
 		},
 		//The walwidth:128, height:128,
@@ -41,11 +43,15 @@ var playerData ={
 			cycle:true,
 			frames:
 			[
-				{width:128, height:128, startX:0, startY:0},
-				{width:128, height:128, startX:128, startY:0},
-				{width:128, height:128, startX:256, startY:0},
-				{width:128, height:128, startX:384, startY:0},
-				{width:128, height:128, startX:512, startY:0}
+				{width:128, height:128, startX:0, startY:128},
+				{width:128, height:128, startX:128, startY:128},
+				{width:128, height:128, startX:256, startY:128},
+				{width:128, height:128, startX:384, startY:128},
+				{width:128, height:128, startX:512, startY:128},
+				{width:128, height:128, startX:640, startY:128},
+				{width:128, height:128, startX:768, startY:128},
+				{width:128, height:128, startX:896, startY:128},
+				{width:128, height:128, startX:0, startY:256}
 			]
 		},
 		//The jump animation 
@@ -55,7 +61,9 @@ var playerData ={
 			cycle:false,
 			frames:
 			[
-				{width:128, height:128, startX:640, startY:0}
+				{width:128, height:128, startX:0, startY:512},
+				{width:128, height:128, startX:512, startY:128},
+				{width:128, height:128, startX:512, startY:128}
 			]
 		},
 		//The crouch animation 
@@ -92,4 +100,5 @@ var playerData ={
 		}
 	}
 		
+
 }
