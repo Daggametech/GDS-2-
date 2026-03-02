@@ -73,7 +73,7 @@ var playerData ={
 		crouch:
 		{
 			fps:15,
-			cycle:true,
+			cycle:false,
 			frames:
 			[
 				{width:128, height:128, startX:0, startY:384},
@@ -105,6 +105,7 @@ var playerData ={
 		
 
 }
+
 
 
 
