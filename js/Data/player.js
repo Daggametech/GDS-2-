@@ -39,7 +39,7 @@ var playerData ={
 		//The walwidth:128, height:128,
 		walk:
 		{
-			fps:3,
+			fps:9,
 			cycle:true,
 			frames:
 			[
@@ -86,7 +86,7 @@ var playerData ={
 		//The attack animation 
 		attack:
 		{
-			fps:9,
+			fps:15,
 			cycle:false,
 			//width:300,
 			frames:
@@ -105,6 +105,7 @@ var playerData ={
 		
 
 }
+
 
 
 
