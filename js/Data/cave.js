@@ -7,9 +7,9 @@ var caveData ={
 			[7,x,x,8,x,x,8,x,x,x,x,x,x,8,8,x,8,8,x,x,x,8,x,x,8,8,x,x,x,x,x,8,x,x,3],
 			[7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,3],
 			[7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,3],
-			[7,x,x,x,x,x,x,x,4,5,x,x,x,x,x,x,3,x,x,x,x,3,4,5,3,4,x,x,x,x,x,x,x,x,3],
-			[x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,3,x,x,x,x,3,4,5,3,4,x,x,x,x,x,x,x,x,3],
-			[x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,3,x,x,x,x,3,4,5,3,4,x,x,x,x,x,x,x,x,x]
+			[7,x,x,x,x,x,x,x,4,5,x,x,x,x,x,x,3,x,x,x,x,5,3,4,5,3,x,x,x,x,x,x,x,x,3],
+			[x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,3,x,x,x,x,5,3,4,5,3,x,x,x,x,x,x,x,x,3],
+			[x,3,4,5,3,4,5,3,4,5,3,4,5,3,4,5,3,4,5,3,4,5,3,4,5,3,4,5,3,4,5,3,4,5,3]
 			
 			
 		],
@@ -102,6 +102,7 @@ var caveData ={
 			
 
 			}
+
 
 
 
