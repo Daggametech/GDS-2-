@@ -13,7 +13,7 @@ var caveData ={
 			
 			
 		],
-		src:`images/bg2.png`,
+		src:`images/Tile_Set_Final(1).png`,
 	},
 	states:
 	[		
@@ -100,4 +100,5 @@ var caveData ={
 			},
 			states:caveData.states
 			
+
 			}
