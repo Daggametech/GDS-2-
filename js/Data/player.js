@@ -105,14 +105,14 @@ var playerData ={
 				{width:128, height:128, startX:384, startY:640},
 				{width:128, height:128, startX:512, startY:640},
 				{width:128, height:128, startX:640, startY:640},
-				{width:128, height:128, startX:768, startY:640},
-				{width:128, height:128, startX:896, startY:640},
+				{width:128, height:128, startX:768, startY:640}
 			]
 		}
 	}
 		
 
 }
+
 
 
 
