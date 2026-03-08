@@ -91,20 +91,29 @@ var playerData ={
 			//width:300,
 			frames:
 			[
-				{width:128, height:128, startX:1024, startY:0},
-				{width:128, height:128, startX:1024, startY:0},
-				{width:128, height:128, startX:1024, startY:0},
-				{width:128, height:128, startX:1152, startY:0},
-				{width:128, height:128, startX:1152, startY:0},
-				{width:128, height:128, startX:1152, startY:0},
-				{width:128, height:128, startX:1152, startY:0}
-				
+				{width:128, height:128, startX:0, startY:640},
+				{width:128, height:128, startX:128, startY:640},
+				{width:128, height:128, startX:256, startY:640},
+				{width:128, height:128, startX:384, startY:640},
+				{width:128, height:128, startX:512, startY:640},
+				{width:128, height:128, startX:640, startY:640},
+				{width:128, height:128, startX:768, startY:640},
+				{width:128, height:128, startX:896, startY:640},
+				{width:128, height:128, startX:0, startY:768},
+				{width:128, height:128, startX:128, startY:640},
+				{width:128, height:128, startX:256, startY:640},
+				{width:128, height:128, startX:384, startY:640},
+				{width:128, height:128, startX:512, startY:640},
+				{width:128, height:128, startX:640, startY:640},
+				{width:128, height:128, startX:768, startY:640},
+				{width:128, height:128, startX:896, startY:640},
 			]
 		}
 	}
 		
 
 }
+
 
 
 
