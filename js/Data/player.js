@@ -86,7 +86,7 @@ var playerData ={
 		//The attack animation 
 		attack:
 		{
-			fps:5,
+			fps:15,
 			cycle:false,
 			//width:300,
 			frames:
@@ -112,6 +112,7 @@ var playerData ={
 		
 
 }
+
 
 
 
