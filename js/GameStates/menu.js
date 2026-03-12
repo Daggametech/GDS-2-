@@ -31,7 +31,7 @@ gameStates[`menu`] =function(){
 	else
 	{
 		//Default Button Graphic
-		
+		startButton.img.src="images/startButton.jpg"
 	}
 	
 	menuBackground.drawStaticImage();
@@ -39,6 +39,7 @@ gameStates[`menu`] =function(){
 }
 	
 	
+
 
 
 
