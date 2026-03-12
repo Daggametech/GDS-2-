@@ -26,7 +26,7 @@ gameStates[`menu`] =function(){
 		}
 
 		//Hover Effect Graffic
-		startButton.img.src="images/startButton(2).jpg"
+		
 
 	}
 	else
@@ -40,6 +40,7 @@ gameStates[`menu`] =function(){
 }
 	
 	
+
 
 
 
