@@ -39,7 +39,7 @@ var playerData ={
 		//The walwidth:128, height:128,
 		walk:
 		{
-			fps:9,
+			fps:3,
 			cycle:true,
 			frames:
 			[
@@ -111,7 +111,7 @@ var playerData ={
 
 		slash:
 		{
-			fps:4,
+			fps:8,
 			cycle:false,
 			//width:300,
 			frames:
@@ -127,6 +127,7 @@ var playerData ={
 		
 
 }
+
 
 
 
